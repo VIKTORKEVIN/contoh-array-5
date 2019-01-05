@@ -14,4 +14,4 @@
     return 0;
     }
     
-![img](https://raw.githubusercontent.com/VIKTORKEVIN/contoh-array-5/master/contoh%20array%205.png
+![img](https://raw.githubusercontent.com/VIKTORKEVIN/contoh-array-5/master/contoh%20array%205.png)
